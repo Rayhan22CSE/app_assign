@@ -47,7 +47,7 @@ form_practice_01/
 1. Clone the repository:
 
    
-   git clone https://github.com/tanim-ahmed-sunny/Mobile-App-Development-Lab-2021-22.git
+   git clone https://github.com/Rayhan22CSE/app_assign/tree/form_practice_01/form_practice_01
    
 2. Navigate to the project folder:
 
